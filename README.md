@@ -26,7 +26,7 @@ Visit IdeaBox to store all your useful and not so useful ideas. Ideas to impress
 
 ## Deployed Page
 
-Visit our published IdeaBox page [here](https://masaki-kleinkopf.github.io/ideabox/)
+Visit our published IdeaBox page [here](https://megschuetz.github.io/ideabox/)
 
 ## Set Up
 
